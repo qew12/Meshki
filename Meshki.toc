@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Meshki
+## Notes: Advanced Treasure Bag Tracker
+## Author: You
+## Version: 2.0
+## SavedVariables: MeshkiDB
+## SavedVariablesPerCharacter: MeshkiCharDB
+
+Meshki.lua
